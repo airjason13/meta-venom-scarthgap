@@ -1,0 +1,7 @@
+*.swp
+*.swo
+*venv*
+__pycache__
+*~
+ledclientp16
+*.bk
