@@ -42,4 +42,17 @@ RDEPENDS:${PN} = " \
 	openvpn \
 	valgrind \
 	strace \
+	minicom \
+	libsdl \
+	libsdl-dev \
+	libsdl2 \
+	sudo \
+	xvenom-setting \
+	openmp \
+	libcap \
+	libgomp \
+	libgomp-dev \
+	vulkan-tools \
+	vulkan-samples \
+	e2fsprogs-resize2fs \
 "

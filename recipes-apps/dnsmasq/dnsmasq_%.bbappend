@@ -8,7 +8,7 @@ SRC_URI += "file://dnsmasq.conf \
 
 do_install:append() {
 	install -m 0444 ${WORKDIR}/dnsmasq.conf ${D}${sysconfdir}/
-	install -m 0444 ${WORKDIR}/dnsmasq.service ${D}/lib/systemd/system/
+	install -m 0444 ${WORKDIR}/dnsmasq.service ${D}/usr/lib/systemd/system/
 }
 
 

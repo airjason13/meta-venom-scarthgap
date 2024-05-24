@@ -9,7 +9,7 @@ FILESEXTRAPATHS:append := "${THISDIR}/${PN}:"
 DEPENDS += "libwebp"
 DEPENDS += "zeromq"
 DEPENDS += "freetype"
-#DEPENDS += "userland"
+
 
 #add by Jason for test
 PACKAGECONFIG[libwebp] = "--enable-libwebp,--disable-libwebp,libwebp"

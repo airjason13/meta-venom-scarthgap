@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-markupsafe = "2.1.5"

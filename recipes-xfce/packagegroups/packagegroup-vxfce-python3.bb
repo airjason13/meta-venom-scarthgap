@@ -14,6 +14,17 @@ RDEPENDS:${PN} = " \
 	python3-pip \
 	python3-setuptools \
 	python3-flask \
+	python3-flask-wtf \
 	python3-numpy \
 	python3-pyqt5 \
+	python3-itsdangerous \
+	python3-json \
+	python3-wtforms \
+	python3-qtmodern \
+	python3-pyqtgraph \
+	python3-ffmpy \
+	python3-qdarkstyle \
+	python3-qtpy \
+	python3-pyudev \
+	python3-psutil \
 "
