@@ -1,0 +1,15 @@
+[submodule "recipes-apps/ledserver/ledserver/pyLed_Server"]
+	path = recipes-apps/ledserver/ledserver/pyLed_Server
+	url = https://github.com/airjason13/pyLed_Server.git
+[submodule "recipes-apps/libyuv/libyuv/libyuv"]
+	path = recipes-apps/libyuv/libyuv/libyuv
+	url = https://chromium.googlesource.com/libyuv/libyuv.git
+[submodule "recipes-bsp/rtl8812au/rtl8812au"]
+	path = recipes-bsp/rtl8812au/rtl8812au
+	url = https://github.com/aircrack-ng/rtl8812au.git
+[submodule "recipes-apps/ledratool/ledratool/pyLedRATool"]
+	path = recipes-apps/ledratool/ledratool/pyLedRATool
+	url = https://github.com/airjason13/pyLedRATool.git
+[submodule "recipes-apps/ledtester/ledtester/pyLedTester"]
+	path = recipes-apps/ledtester/ledtester/pyLedTester
+	url = https://github.com/airjason13/pyLed_test_server.git
