@@ -17,3 +17,11 @@
 [submodule "recipes-apps/smitrigger/smitrigger"]
 	path = recipes-apps/smitrigger/smitrigger
 	url = https://github.com/airjason13/smi_trigger.git
+
+[submodule "recipes-bsp/rtl8812au/files_bak/rtl8812au"]
+    path = recipes-bsp/rtl8812au/files_bak/rtl8812au
+    url = https://github.com/aircrack-ng/rtl8812au.git
+
+[submodule "recipes-bsp/rtl8812au/rtl8812au"]
+    path = recipes-bsp/rtl8812au/rtl8812au
+    url = https://github.com/aircrack-ng/rtl8812au.git
